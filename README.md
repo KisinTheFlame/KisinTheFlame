@@ -3,4 +3,4 @@ I am Kisin, a student from Beihang University, or Beijing University of Aeronaut
 
 In October 2020, I accomplished my blog, using Vue.js and Spring boot&reg; instead of a blog framework such as Hexo and WordPress and so on. It is a educational and thrilling experience which cost me two months. I am delighted to find my efforts get generously paid.
 
-Since I enter the world of coding in a memorable afternoon when I open a book in C language programming in the city library, I have been immersing myself in coding for years. I hope I would fulfill my dream of creating splendid softwares which can bring convenience to other people.
+Since I entered the world of coding in a memorable afternoon when I opened a book in C language programming in the city library, I have been immersing myself in coding for years. I hope I would fulfill my dream of creating splendid softwares which can bring convenience to other people.
